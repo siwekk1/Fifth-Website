@@ -17,3 +17,10 @@ h1
 	margin-bottom: 20px;
 	text-align: center;
 }
+.rowset{
+	margin-top: 20px;
+}
+.kolumna{
+	display: inline-block;
+	margin: 0 10px;
+}
